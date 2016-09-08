@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "sampleArray/ViewController.swift"
-            timestampString = "494317387.219788"
+            timestampString = "494401657.380507"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "73"
-            endingLineNumber = "73"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
             landmarkName = "searchSmoothie(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -26,11 +26,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "sampleArray/ViewController.swift"
-            timestampString = "494317387.219788"
+            timestampString = "494401657.380507"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "73"
-            endingLineNumber = "73"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "searchSmoothie(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleArray/ViewController.swift"
+            timestampString = "494404245.899733"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
             landmarkName = "searchSmoothie(_:)"
             landmarkType = "5">
          </BreakpointContent>
